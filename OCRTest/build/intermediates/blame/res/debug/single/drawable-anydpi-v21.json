@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-anydpi-v21/iv_back.xml",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-anydpi-v21/iv_back.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-anydpi-v21/iv_crop_white.xml",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-anydpi-v21/iv_crop_white.xml"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-anydpi-v21/iv_rotate_right.xml",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-anydpi-v21/iv_rotate_right.xml"
+    }
+]

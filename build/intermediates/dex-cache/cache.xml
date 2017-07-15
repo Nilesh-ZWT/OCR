@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_eab18e9e5f7216567fe04c2ad5681050b4b65217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_33bf8febea9cedebd8bf6c2a8cc7db0a7cd1dbe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_c662e3a9984c06b77a0fcd3f14fc26a3ad40260d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_09cb0825fa5bdd1768e686dcecfebfab14f1a27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_8a4cda1886eb7e764ec805463e8ad219d39fccd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.theartofdev.edmodo-android-image-cropper-2.3.1_de1dde4a981f0765a27fb82208260291fb38c46b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_91fedbe0581ffad489bd8ee5c37cce8e59f48ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_7e9e264b13df0075009ed278abdee4af3bb3dd00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_55e4e36dda173bde4b209c680a6d4c8c311dc8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_fa7affb39d8d824fa767cfe7f527cf115bc6116b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/jp.co.cyberagent.android.gpuimage/gpuimage-library/1.4.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_bb782c7a93f4e2c99b98cd8875e86bd8c2a8c5ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_9a26ee56e06dd6f2e9de1cddaa50eafcd339f769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/exploded-aar/com.rmtheis/tess-two/6.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/pre-dexed/debug/com.rmtheis-tess-two-6.0.4_43c2cb500f225b125eb20413b11bcfa2c57a8195.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-xxhdpi/iv_back.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-xxhdpi/iv_back.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-xxhdpi/iv_rotate_right.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-xxhdpi/iv_rotate_right.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-xxhdpi/iv_crop_white.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-xxhdpi/iv_crop_white.png"
+    }
+]

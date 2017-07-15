@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-hdpi/iv_rotate_right.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-hdpi/iv_rotate_right.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-hdpi/iv_crop_white.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-hdpi/iv_crop_white.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-hdpi/iv_back.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/generated/res/pngs/debug/drawable-hdpi/iv_back.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/admin/Desktop/Projects Example/android-ocr-final/OCRTest/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
